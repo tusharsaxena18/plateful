@@ -23,6 +23,7 @@ Plateful is a digital platform that connects food donors (*Plate Givers*) with t
 - 🌐 **Multilingual & Offline Support**
 - 🎯 **Campaign Launch & Participation**
 - 🤝 **Government & CSR Collaborations**
+- 🌐 **Crowdfunding Feature**
 
 ---
 
@@ -30,6 +31,7 @@ Plateful is a digital platform that connects food donors (*Plate Givers*) with t
 
 - **Plate Givers**: Individuals or organizations donating food
 - **Plate Sharers**: Verified individuals, NGOs, or communities receiving food
+- **Donors**: The crowdfunding feature allows users to donate directly, with real-time tracking of their impact.
 
 ---
 
@@ -51,12 +53,6 @@ Plateful is a digital platform that connects food donors (*Plate Givers*) with t
 - **Database**: MySQL
 - **Cloud & Hosting**: (Add your hosting service here)
 - **Other**: Arduino Lilypad integration for smart pings (if used)
-
----
-
-## 📸 Screenshots
-
-*(Include app screenshots, wireframes, or diagrams here)*
 
 ---
 
