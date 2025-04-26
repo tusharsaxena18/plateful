@@ -1,6 +1,9 @@
-# 🥘 Plateful – Bridging Surplus Food to Hungry Plates
+## PLATEFUL- A Plate for Every Hand
+## Turning surplus into smiles, and waste into hope.
+## With AI-powered connections, Plateful feeds lives —
 
-Plateful is a digital platform that connects food donors (*Plate Givers*) with those in need (*Plate Sharers*) using technology to reduce food waste and fight hunger. With real-time listings, smart logistics, and community engagement, Plateful enables efficient, dignified food sharing at scale.
+*Plateful* is a powerful platform combating hunger and food waste by connecting surplus food sources(Plate Givers)—with NGOs (Plate Sharers) that feed the underprivileged. With real-time listings, smart logistics, and community engagement, Plateful enables efficient, dignified food sharing at scale. It smartly prioritizes perishable items, limits overstocking, and lets users fund and track impact through transparent crowdfunding, turning excess into empathy.
+
 
 ---
 
