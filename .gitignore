@@ -1,0 +1,167 @@
+# Node modules
+node_modules/
+**/node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+jspm_packages/
+
+# Build directories
+dist/
+build/
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# dotenv environment files
+.env
+.env.local
+.env.*.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Coverage reports
+coverage/
+*.lcov
+
+# Optional npm cache directory
+.npm/
+
+# Parcel cache
+.cache/
+
+# Next.js cache
+.next/
+
+# SvelteKit
+.svelte-kit/
+
+# React Native
+.expo/
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Misc
+*.tgz
+*.gz
+
+# Debugger settings
+.nyc_output/
+
+# Firebase
+.firebaserc
+.firebase/
+
+# Storybook
+out/
+storybook-static/
+
+# Mac system files
+*.DS_Store
+
+# Local backend/frontend settings
+frontend/.env
+backend/.env
+
+# Optional: Ignore built frontend if you're copying it into backend
+backend/public/
+# Node modules
+node_modules/
+**/node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+jspm_packages/
+
+# Build directories
+dist/
+build/
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# dotenv environment files
+.env
+.env.local
+.env.*.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Coverage reports
+coverage/
+*.lcov
+
+# Optional npm cache directory
+.npm/
+
+# Parcel cache
+.cache/
+
+# Next.js cache
+.next/
+
+# SvelteKit
+.svelte-kit/
+
+# React Native
+.expo/
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Misc
+*.tgz
+*.gz
+
+# Debugger settings
+.nyc_output/
+
+# Firebase
+.firebaserc
+.firebase/
+
+# Storybook
+out/
+storybook-static/
+
+# Mac system files
+*.DS_Store
+
+# Local backend/frontend settings
+frontend/.env
+backend/.env
+
+# Optional: Ignore built frontend if you're copying it into backend
+backend/public/
+
