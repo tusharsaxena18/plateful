@@ -2,7 +2,7 @@ import React from 'react';
 import { motion } from 'framer-motion';
 import { Utensils, Users, Heart } from 'lucide-react';
 
-import SpotlightCard from '../common/spotlightcard';
+import SpotlightCard from '../common/SpotlightCard';
 
 
 const ImpactSection: React.FC = () => {
