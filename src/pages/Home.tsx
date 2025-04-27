@@ -40,7 +40,7 @@ const Home: React.FC = () => {
       <section className="relative min-h-screen flex items-center bg-gradient-to-r from-[#2F2F2F]/90 to-[#2F2F2F]/90">
   <div className="absolute inset-0 z-0">
           <img
-            src= "https://drive.google.com/drive-viewer/AKGpihYqsQa-UgyGJYB7jzrf1UQYXeBFFY3wEhvqge5_xQdH7z07bsb3bPKbrwg2qCHMWeS11X091MGZTK9i4uXT9YUt7bLyrkc7LuI=w1920-h912-rw-v1"
+            src= "https://media.istockphoto.com/id/619643870/photo/hungry-african-children-asking-for-food-africa.jpg?s=612x612&w=0&k=20&c=HuSbhCK-BNFVSQsVfSa63gehixkKAfRak2HmQYw7mhY="
             alt="Food donation"
             className="w-full h-full object-cover opacity-30"
           />
