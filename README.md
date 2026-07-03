@@ -10,6 +10,7 @@
 - **Demo Video**: [Watch Here](https://drive.google.com/file/d/1npKxaZ3WOSpXu_zM1x7WDlU2GxvNjYSE/view) 
 - **Website**: [Watch Here](https://drive.google.com/file/d/1-P9TSejuR74IrlvfKArs8GqkGIjDFD1f/view?usp=sharing) 
 - **Presentation Link**: [Click Here](https://www.canva.com/design/DAGkUr3MUJ4/Ho0Qg3negsPfrtzPnflcPA/view?utm_content=DAGkUr3MUJ4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h10af00e94c)
+- 🔗 **Live site:** [plateeful.netlify.app](https://plateeful.netlify.app/)
 
 ---
 
