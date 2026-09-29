@@ -6,6 +6,21 @@
 
 Plateful is a platform designed to combat hunger and food waste by connecting surplus food sources (Plate Givers) with non-governmental organizations (Plate Sharers) that serve underprivileged communities. Through real-time listings, intelligent logistics, and community engagement, Plateful facilitates efficient and dignified food sharing at scale. The system prioritizes perishable items, restricts overstocking, and enables users to fund and monitor impact through transparent crowdfunding mechanisms.
 
+## File Directory
+```
+plateful/
+│
+├── app/
+│   └── plateful/
+│       ├── # app code
+│
+└── web/
+    ├── frontend/
+    │   ├── # frontend code
+    └── backend/
+        ├── # backend code
+
+```
 ## Demonstration Links
 
 - **Demo Video:** [Watch Here](https://drive.google.com/file/d/1npKxaZ3WOSpXu_zM1x7WDlU2GxvNjYSE/view)
